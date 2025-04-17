@@ -1,3 +1,3 @@
 <h1>Dev Sorteio </h1>
 
-<p>Projeto desenvolvido para desolver HTML,CSS e principalmente JS.</p>
+<p>Sorteador de números construído utilizando HTML, CSS e JavaScript, com interface responsiva e usabilidade intuitiva. A aplicação permite definir limites e gera resultados aleatórios instantaneamente, com feedback visual claro.</p>
